@@ -1,5 +1,3 @@
-hat file will look like this:
-
 const getJoke = require("./joke");
 const core = require("@actions/core");
 
